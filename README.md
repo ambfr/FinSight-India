@@ -143,5 +143,5 @@ FinSight India is an educational data analytics project. Historical performance 
 
 **GitHub Repository:** [FinSight India](https://github.com/ambfr/FinSight-India)
 
-**Live Demo:** Coming soon!
+**Live Demo:** [link](https://finsight-india.streamlit.app/)
 
